@@ -22,4 +22,6 @@ If you have an error, do the following steps:
 
 [cfg_error]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/configuration_error.png "Cmake Error"
 
+[cfg_btn]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/configure.png "Configure button"
+
 [cv_dir]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/cmake_directories.png "source code:opencv, binariesopencv/build"
