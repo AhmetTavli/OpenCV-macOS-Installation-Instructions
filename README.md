@@ -17,6 +17,6 @@ Step#1: Set directories
 
 ![alt text][cv_dir]
 
-[cfg_error]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/configuration_error.png "Cmake Error"
+[cfg_error]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/configuration_error.png "Cmake Error"
 
-[cv_dir]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/cmake_directories.png
+[cv_dir]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/cmake_directories.png "opencv and opencv/build directories respectively"
