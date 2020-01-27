@@ -92,11 +92,11 @@ sudo make install
 
 You have successfully installed the OpenCV, now you can return back to the [Adrian's tutorial](https://www.pyimagesearch.com/2018/08/17/install-opencv-4-on-macos/ "Step #6: Sym-link OpenCV 4 on macOS to your virtual environment site-packages")
 
-Tesserract Error
+Tesserract Error :bangbang:
 ================
 ![alt text][tesserract_error]
 
-# Solution
+# Solution :thinking:
 [Tesserract problem is a common problem](https://github.com/justadudewhohacks/opencv4nodejs/issues/179)
 
 Change the library paths:
