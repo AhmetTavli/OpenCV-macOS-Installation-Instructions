@@ -115,7 +115,7 @@ Change the library paths:
 
 [python_executables]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/python_executables.png
 
-[build_opencv_python3]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/build_opencv_python3.png "Click on the checkbox"
+[build_opencv_python3]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/build_opencv_python3.png
 
 [python_examples]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/python_examples.png
 
