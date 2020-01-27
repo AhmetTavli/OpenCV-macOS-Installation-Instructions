@@ -109,7 +109,7 @@ Change the library paths:
 
 [configure]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/configure.png "Configure button"
 
-[build_type]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/build_type.png
+[build_type]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/build_type.png =24x48
 
 [install_prefix]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/install_prefix.png
 
