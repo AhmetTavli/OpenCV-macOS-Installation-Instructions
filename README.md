@@ -133,4 +133,4 @@ Change the library paths:
 
 [tesserract_error]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/tesserract_error.png
 
-[tesserract_solution]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/tesserract_solution.png
+[tesserract_solution]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/tesseract_solution.png
