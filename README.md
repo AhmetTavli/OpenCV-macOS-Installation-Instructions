@@ -1,5 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![OpenCV](https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/opencv_badge.svg)](https://opencv.org/)
+[![macOS](https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/mac_badge.svg)](https://www.apple.com)
+
 
 # OpenCV Installation Instructions
 
