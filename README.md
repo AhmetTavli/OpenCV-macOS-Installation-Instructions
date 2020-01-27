@@ -11,4 +11,12 @@ If you follow the rest of the Adrians tutorial, you might end up an error like b
 
 ![alt text][cfg_error]
 
+If you have an error, do the following steps:
+
+Step#1: Set directories
+
+![alt text][cv_dir]
+
 [cfg_error]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/configuration_error.png "Cmake Error"
+
+[cv_dir]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/cmake_directories.png
