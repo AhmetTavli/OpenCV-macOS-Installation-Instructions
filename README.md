@@ -2,7 +2,7 @@
 [![OpenCV](https://github.com/AhmetTavli/Badge/blob/master/badges/opencv_badge.svg)](https://opencv.org/)
 [![macOS](https://github.com/AhmetTavli/Badge/blob/master/badges/mac_badge.svg)](https://www.apple.com)
 [![CMake](https://github.com/AhmetTavli/Badge/blob/master/badges/cmake_badge.svg)](https://cmake.org/)
-[![pyimagesearch](https://github.com/AhmetTavli/Badge/blob/master/badges/pyimagesearch_badge.svg)](https://www.pyimagesearch.com/)
+[![pyimagesearch](https://github.com/AhmetTavli/Badge/blob/master/badges/pyimagesearch.svg)](https://www.pyimagesearch.com/)
 
 
 # OpenCV Installation Instructions
