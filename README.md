@@ -39,7 +39,7 @@ Do the following steps:
 
 7. Make sure BUILD_opencv_python3 value is 1
 
-![alt text][[build_opencv_python3]]
+![alt text][build_opencv_python3]
 
 8. Make sure INSTALL_PYTHON_EXAMPLES value is 1
 
