@@ -13,10 +13,13 @@ If you follow the rest of the Adrians tutorial, you might end up an error like b
 
 If you have an error, do the following steps:
 
-Step#1: Set directories
+1. Set directories
 
 ![alt text][cv_dir]
 
+2. Configure the project
+3.
+
 [cfg_error]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/configuration_error.png "Cmake Error"
 
-[cv_dir]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/cmake_directories.png "opencv and opencv/build directories respectively"
+[cv_dir]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/cmake_directories.png "source code:opencv, binariesopencv/build"
