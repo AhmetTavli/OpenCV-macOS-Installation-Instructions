@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # OpenCV Installation Instructions
 
 The following instructions are based on the [Adrian Rosenbrock OpenCv Tutorial](https://www.pyimagesearch.com/2018/08/17/install-opencv-4-on-macos/ "Install OpenCV 4 on macOS")
@@ -134,3 +136,11 @@ Change the library paths:
 [tesserract_error]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/tesserract_error.png
 
 [tesserract_solution]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/tesseract_solution.png
+
+## Contributing :thought_balloon:
+Pull requests are welcome.
+
+For major changes, please open an issue, then discuss what you would like to change.
+
+ ## License :scroll:
+[MIT](https://opensource.org/licenses/MIT)
