@@ -6,7 +6,7 @@ The following instructions are based on the [Adrian Rosenbrock OpenCv Tutorial](
 
 Please do every step until "Compile OpenCV4 from source" section.
 
-Compile OpenCV4 from source:desktop_computer:
+Compile OpenCV4 from source :desktop_computer:
 ===========================
 
 If your compilation end up an error like below:
