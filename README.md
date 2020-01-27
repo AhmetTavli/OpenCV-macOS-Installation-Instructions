@@ -18,6 +18,9 @@ If you have an error, do the following steps:
 ![alt text][cv_dir]
 
 2. Configure the project
+
+![alt text][cfg_btn]
+
 3.
 
 [cfg_error]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/configuration_error.png "Cmake Error"
