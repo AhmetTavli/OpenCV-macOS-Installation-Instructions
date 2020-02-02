@@ -102,7 +102,7 @@ Tesserract Error :bangbang:
 ![alt text][tesserract_error]
 
 # Solution :thinking:
-[Tesserract problem is a common problem](https://github.com/justadudewhohacks/opencv4nodejs/issues/179)
+[Tesserract is a common problem](https://github.com/justadudewhohacks/opencv4nodejs/issues/179)
 
 Change the library paths:
 ![alt text][tesserract_solution]
